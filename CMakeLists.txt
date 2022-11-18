@@ -18,6 +18,7 @@ set(MAYA_VERSION 2020 CACHE STRING "Maya version")
 
 set(MAYA_FILES
     "src/GITHUB_PROJECT_NAME.cpp"
+    "src/GITHUB_PROJECT_NAME.h"
     "src/pluginRegister.cpp"
 )
 

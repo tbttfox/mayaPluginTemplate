@@ -24,6 +24,7 @@ SOFTWARE.
 
 #include <maya/MFnPlugin.h>
 #include <maya/MGlobal.h>
+#include "GITHUB_PROJECT_NAME.h"
 
 MStatus initializePlugin(MObject obj) {
 	MStatus result;
